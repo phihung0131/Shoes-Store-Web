@@ -13,8 +13,8 @@ Xem hình ảnh tại thư mục **`preview`** trong repository.
 [🌟 Xem video giới thiệu trên YouTube tại đây!](https://www.youtube.com/watch?v=n3HCS5K23eE)  
 
 ### 🌐 **Truy cập trực tuyến**  
-- **Backend:** [domstore.onrender.com](https://domstorefe.azurewebsites.net/)
-- **Frontend:** [dath-dom-store-fe.vercel.app](https://domstore.azurewebsites.net/)
+- **Backend:** [https://domstorefe.azurewebsites.net/](https://domstorefe.azurewebsites.net/)
+- **Frontend:** [https://domstore.azurewebsites.net](https://domstore.azurewebsites.net/) 
 
 ---
 
